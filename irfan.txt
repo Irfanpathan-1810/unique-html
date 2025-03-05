@@ -1,0 +1,6 @@
+<html>
+<h3 align="centre">practical no.1</h3>
+<body bgcolor="gray">
+<p> like SBJITMR is an autonomous institute its is located at <i> Fetri village </i> nagpur katol road in SBJITMR we are having <b> CSE,ETC,ME,EE </b> branch in cse <u> we are having 240 intake </u></p>
+<h4 style="color:yellow">style tag sikhna hai</h4>
+<img src="C:\Users\CSE LAB\Pictures\Screenshots.PNG">
